@@ -1,11 +1,11 @@
 # linkedinscraper
 Create a scraperconfig.py , add email, password and search term as follows:
 
-**linkedin_username = "<email>"
+`linkedin_username = "email"
 
-linkedin_password = "<pass>"
+linkedin_password = "pass"
 
-searchterm = "defender of the realm"**
+searchterm = "defender of the realm"`
   
 Sometimes LinkedIn is flaky:
 
