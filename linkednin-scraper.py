@@ -17,8 +17,6 @@ from scraperconfig import * # set the variables linkedin_username linkedin_passw
 # set the path to the Chrome webdriver
 chrome_driver_path = "/path/to/chromedriver"
 
-
-
 # set the name of the output CSV file
 output_file = searchterm + ".csv"
 
